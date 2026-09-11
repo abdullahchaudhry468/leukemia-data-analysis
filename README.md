@@ -32,7 +32,7 @@ Python was used to perform principal component analysis (PCA) on the expression 
 
 ### Differential expression
 
-Differential-expression analysis was performed using `limma` to compare AML and ALL samples.. P-values were adjusted for multiple testing using the Benjamini–Hochberg method.
+Differential-expression analysis was performed using `limma` to compare AML and ALL samples. P-values were adjusted for multiple testing using the Benjamini–Hochberg method.
 
 Probe sets were considered significant when they met both criteria:
 
