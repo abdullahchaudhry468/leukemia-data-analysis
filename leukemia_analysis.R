@@ -9,7 +9,7 @@ library(hu6800.db)
 
 data(Golub_Merge)
 
-project_dir <- "~/Documents/GitHub/leukemia-bioinformatics"
+project_dir <- getwd()
 data_dir <- file.path(project_dir, "data")
 figures_dir <- file.path(project_dir, "figures")
 
